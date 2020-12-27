@@ -1,0 +1,16 @@
+#container {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#container button{
+    padding: 10px;
+    background-color: #ede600d1;
+    font-size: 21px;
+    color: #000000;
+}
+#container button:hover{
+    background-color: #00edb6d1;
+}
